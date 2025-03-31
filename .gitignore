@@ -1,0 +1,12 @@
+venv
+prompts
+results_refined
+results_initial
+results_historical
+draft-macro.zip
+macro-refined.zip
+macro-refined-revision.zip
+.DS_Store
+macro_data_filled.csv
+find_historical_regimes.py
+analyze_macro_regimes.py
